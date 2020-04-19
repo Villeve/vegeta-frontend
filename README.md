@@ -1,5 +1,5 @@
 # vegeta-front
-
+Just another Vue frontend with for a full stack application
 ## Project setup
 ```
 npm install
